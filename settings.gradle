@@ -1,0 +1,4 @@
+rootProject.name='JTNormalFunction'
+include ':app'
+include ':yyh'
+include ':quanyan'
