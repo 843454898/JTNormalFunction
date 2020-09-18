@@ -3,7 +3,10 @@ package com.jt.normal
 import android.util.Log
 
 object TextUtils {
-    fun text(){
-        Log.e("测试","泉眼")
+    fun print(){
+        println("泉眼")
+    }
+    fun log(){
+        Log.e("泉眼","log")
     }
 }
